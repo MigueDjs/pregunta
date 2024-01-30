@@ -1,0 +1,49 @@
+*{
+    margin: 0; 
+}
+
+a {
+    font-size: xx-large;
+    padding: 0.75em;
+    background-color: #f0f0f0;
+    padding: 15px 30px;
+    margin: 150px 130px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedor{
+    background: burlywood;
+   
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+    background-color: #f0f0f0;
+    padding: 15px 30px;
+    margin: 150px 130px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#yesBtn{
+    transform: translate(-100,0);
+}
+
+#noBtn{
+    transform: absolute;
+}
+
+.img-1{
+    text-align: center;
+    padding: 5px 5px;
+}
